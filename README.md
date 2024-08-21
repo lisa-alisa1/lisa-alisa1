@@ -1,22 +1,20 @@
 ### I'm Lisa, a front-end developer 👨‍💻 working remotely  💻  
   
 
-### 📌 In a nutshell:   
+## 📌 In a nutshell:   
   
 
 * 🔭 I'm looking for a job now  
   
 
-* 🤩 I write gorgeous websites in Vue/Nuxt.  
+* 🤩 I write gorgeous websites in **Vue/Nuxt**.  
   
 
-* 🌱  I’m currently learning GSAP  
-  
-
+* 🌱  I’m currently learning **GSAP**  
   
   
-
 <br/>  
+
 
 ## My Skill Set  
 
@@ -30,6 +28,7 @@
         <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
       </div>
     </div>
+    <br />
     <div style="display: table-cell; width: 50%; padding-left: 10px; vertical-align: top;">
       <p><strong>Layouts</strong></p>
       <div align="start">  
@@ -47,6 +46,13 @@
 </div>
 
 
+<br />
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisa-alisa1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="lisa-alisa1's GitHub Stats" />
+
+
 <br/>  
 
 
@@ -56,17 +62,7 @@
 </a>
 <a href="https://github.com/https://github.com/lisa-alisa1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-
-<br/>  
-<br/>  
-
-
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisa-alisa1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="lisa-alisa1's GitHub Stats" />
-
+</a>
 
 
 
