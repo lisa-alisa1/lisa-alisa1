@@ -18,43 +18,38 @@
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
 
+<div style="display: flex; justify-content: space-between;">
 
+  <div style="flex: 1; padding-right: 10px;">
+    <p><strong>Frameworks</strong></p>
+    <div align="start">  
+      <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+      <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
+      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+    </div>
+  </div>
 
-<div align="center">  
+  <div style="flex: 1; padding-left: 10px;">
+    <p><strong>Layouts</strong></p>
+    <div align="start">  
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+      <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+      <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+      <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
+      <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+      <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+      <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+      <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+    </div>
+  </div>
 
-### Frameworks  
-<div>
-    <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-    <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
 </div>
-</div>
-</td><td valign="top" width="50%">
-
-
-<div align="center">  
-
-### Layouts  
-<div>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-</div>
-</td>
-</td>
-</tr>
-</table>  
 
 <br/>  
+
+
 
 
 ## Connect with me  
@@ -71,5 +66,11 @@
 
 
 
+
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisa-alisa1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="lisa-alisa1's GitHub Stats" />
+
+
+
+
+
